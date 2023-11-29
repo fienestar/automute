@@ -1,0 +1,16 @@
+{
+    "network-interface": null,
+    "profile": {
+        "home": {
+            "enter": "on",
+            "exit": "off"
+        }
+    },
+    "wifi": {
+        "some-ssid": "profile-name",
+        "some-ssid2": {
+            "enter": "on"
+        }
+    },
+    "interval": 60000
+}

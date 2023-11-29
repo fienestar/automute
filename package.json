@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^20.10.0",
+    "@types/node-wifi": "^2.0.2",
+    "loudness": "^0.4.2",
+    "node-wifi": "^2.0.16"
+  }
+}
